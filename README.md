@@ -39,7 +39,7 @@ print(team.run("Plan BLR→LND Dec 12-16"))
 
 ### Sample Prompt
 
-"I want to fly from SFO to JFK on Dec 12, return Dec 16, economy, prefer window seat and vegetarian meal. Find a mid-range hotel near Midtown with gym and breakfast."
+"I want to fly from BLR to LND on Dec 12, return Dec 16, economy, prefer window seat and vegetarian meal. Find a mid-range hotel near Midtown with gym and breakfast."
 
 ### Project structure
 
