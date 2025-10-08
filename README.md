@@ -63,3 +63,4 @@ travel-assistant/
 - Replace mock tools in `travel_assistant_pkg/tools.py` with real MCP providers or API clients.
 - Persist user preferences and past trips.
 - Add a ground transport agent for airport transfers.
+- Add Payment Service Agent to handle payments based on user preference.
