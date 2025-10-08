@@ -1,4 +1,4 @@
-## Travel Assistant (Agno)
+## Travel Agent Team
 
 Multi-agent travel planner built with Agno and Groq. The coordinator team delegates to a Flight Agent and a Hotel Agent, each using provider tools (mock MCP-like integrations) and applying traveler preferences.
 
